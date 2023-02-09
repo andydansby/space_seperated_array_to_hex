@@ -6,3 +6,5 @@ Useful for tile based game
 
 
 to compile, simple open command prompt and type compile3
+
+Uses the Tiny C Compiler (TCC) included with this package.
